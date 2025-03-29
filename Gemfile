@@ -53,4 +53,4 @@ group :production do
   gem 'mysql'
 end
 
-gem 'exception_notification', '~> 3.0.1', :require => 'exception_notifier'
+gem 'exception_notification', '~> 5.0.0', :require => 'exception_notifier'
