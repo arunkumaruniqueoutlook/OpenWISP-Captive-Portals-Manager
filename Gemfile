@@ -12,7 +12,7 @@ gem 'packet', '0.1.15', :git => 'git://github.com/dguerri/packet.git'
 gem 'backgroundrb-rails3', :require => 'backgroundrb'
 
 gem 'authlogic', '~> 2.1.6'
-gem 'rails3-generators', '~> 0.17.4'
+gem 'rails3-generators', '~> 0.17.5'
 
 gem 'jquery-rails', '~> 0.2.6'
 
@@ -53,4 +53,4 @@ group :production do
   gem 'mysql'
 end
 
-gem 'exception_notification', '~> 3.0.1', :require => 'exception_notifier'
+gem 'exception_notification', '~> 4.0.0', :require => 'exception_notifier'
