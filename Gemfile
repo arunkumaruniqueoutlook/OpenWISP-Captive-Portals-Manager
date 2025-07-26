@@ -12,9 +12,9 @@ gem 'packet', '0.1.15', :git => 'git://github.com/dguerri/packet.git'
 gem 'backgroundrb-rails3', :require => 'backgroundrb'
 
 gem 'authlogic', '~> 2.1.6'
-gem 'rails3-generators', '~> 0.17.4'
+gem 'rails3-generators', '~> 0.17.5'
 
-gem 'jquery-rails', '~> 0.2.6'
+gem 'jquery-rails', '~> 2.1.4'
 
 # Use unicorn as the web server
 # gem 'unicorn'
